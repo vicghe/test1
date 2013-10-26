@@ -1,8 +1,5 @@
 sdafsdfsdfsd
 dsfsdf
-<<<<<<< HEAD
 sdfsdf
-=======
 sdfsdf
 4
->>>>>>> parent of 6185a3b... dell all
